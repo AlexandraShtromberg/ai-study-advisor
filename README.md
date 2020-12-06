@@ -27,6 +27,8 @@ AI study advisor can rely on following data:
 * Bag of words method can be used to process keywords for each of the course (order of words in the description does not matter as the fact that it has been mentioned, for example, when describing course prerequisites)
 
 ## How is it used?
+Recommendation system will be embedded to the Oodi or another system where students can see course descriptions and create the study plans. End users will be opting in to use AI study advisor.
+
 End users of the AI study advisor at the pilot phase can be study advisors who can verify that the recommendation model works correctly based on their own experience and “retrain” it by providing their feedback on relevance of recommendations. Retraining the model is very important as the initial model might lead to the situation that certain courses are always left out of the recommendation for example due to the course description being not updated in the Oodi system or lack of feedback answers (if course is new). Such a situation could gain a lot of negative feedback from the course professors and assistants.
 
 Later, end users can be the students who create the study plan. There is a risk that students will rely on the recommendation system too much and thus be not too active in planning their studies but study advisors can mitigate them through follow-up sessions.
