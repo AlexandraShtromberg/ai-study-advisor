@@ -2,7 +2,7 @@
 
 
 ## Summary
-A study courses recommendation system for the Finnish universities will help students to create the study plan that they will enjoy and complete in the target period. To do it, it will use previous course feedback, course descriptions and feedback on the recommendation system itself.
+A study courses recommendation system for the Finnish universities will help students to create the study plan that they will enjoy and complete in the target period. 
 
 Building AI course project
 
